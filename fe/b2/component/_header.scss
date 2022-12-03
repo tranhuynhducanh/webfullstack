@@ -1,0 +1,8 @@
+.header{
+    &_logo{
+        color: aqua;
+        &--top{
+            color: rgb(154, 41, 41);
+        }
+    }
+}
